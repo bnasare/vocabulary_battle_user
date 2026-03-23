@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1061067137357",
+    "firebase_url": "https://vocabulary-battle-01-default-rtdb.firebaseio.com",
+    "project_id": "vocabulary-battle-01",
+    "storage_bucket": "vocabulary-battle-01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061067137357:android:0390b2a654626881569704",
+        "android_client_info": {
+          "package_name": "com.example.vocabulary_battle_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061067137357-p1k1ncluq17ddt79iutg9a9vfdrfojrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vocabulary_battle_admin",
+            "certificate_hash": "0bc192c3643bcbe13bfd4f08314d4f236a4ed8df"
+          }
+        },
+        {
+          "client_id": "1061067137357-iv8fi073p157hsmipiab7fs74tn88ocu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkW0GKfx9EACMwkua7Uk6bz1gMYkFmueg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061067137357-iv8fi073p157hsmipiab7fs74tn88ocu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061067137357-j65j9jak4j5h9mgo2v52c4thtr9e5au9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vocabularyBattleAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061067137357:android:fcaa66215f76aabc569704",
+        "android_client_info": {
+          "package_name": "com.example.vocabulary_battle_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061067137357-0sp5s6fhcp5lu1jvrhh2rumomnb62id4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vocabulary_battle_user",
+            "certificate_hash": "0bc192c3643bcbe13bfd4f08314d4f236a4ed8df"
+          }
+        },
+        {
+          "client_id": "1061067137357-iv8fi073p157hsmipiab7fs74tn88ocu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkW0GKfx9EACMwkua7Uk6bz1gMYkFmueg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061067137357-iv8fi073p157hsmipiab7fs74tn88ocu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061067137357-j65j9jak4j5h9mgo2v52c4thtr9e5au9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vocabularyBattleAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
